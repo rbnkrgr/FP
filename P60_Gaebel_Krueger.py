@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Fortgeschrittenen Praktikum TU Berlin
 # P60 Ramanspektroskopie an Halbleitern
-# WS19/20 Simon Gaebel & Robin Krüger
+# WS19/20 Gaebel & Krueger
 
 import numpy as np
 import matplotlib.pyplot as plt
